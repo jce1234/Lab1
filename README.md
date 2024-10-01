@@ -1,2 +1,2 @@
 # Lab1
-CS is cool
+CS is cool and fun
